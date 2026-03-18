@@ -5,8 +5,8 @@ Motores de renderizado 3D que simulan la iluminación global mediante técnicas 
 Soporta luces puntuales y de área, materiales con efectos de reflexión y refracción, y escenas personalizadas.
 
 ## Autores
-- Dorian Boleslaw Wozniak
-- Álvaro Seral Gracia
+- Boleslaw Wozniak, Dorian
+- Seral Gracia, Álvaro
 
 ## Path Tracer
 
