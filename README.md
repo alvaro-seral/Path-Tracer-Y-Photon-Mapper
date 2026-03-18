@@ -1,4 +1,4 @@
-# Path Tracer & Photon Mapper
+# Path Tracer y Photon Mapper
 
 Motores de renderizado 3D que simulan la iluminación global mediante técnicas de **Path Tracing** y **Photon Mapping**.
 
